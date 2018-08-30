@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users> 
+  <user id="58cce7a6-afe6-49ef-9db3-946a03eb8f79" userName="admin" userPwd="111111" email="1136708427@qq.com" birthday="1990/09/07"/>  
+  <user id="7c576afe-e04c-4696-84df-86a3f466c48d" userName="yiqq" userPwd="123456" email="1136708427@qq.com" birthday="1990/09/07"/>  
+  <user id="ed317d6d-6a36-4825-881c-a7235e32e588" userName="yyy" userPwd="666666" email="1136708427@qq.com" birthday="1990/09/07"/>  
+  <user id="063775f2-5b4c-4483-ad39-545fe08646e3" userName="yyyy" userPwd="666666" email="1136708427@qq.com" birthday="1990/09/07"/>  
+  <user id="1ce120be-b666-437a-8448-3d5ae0b27073" userName="yyyyyy" userPwd="666666" email="1136708427@qq.com" birthday="1990/09/07"/>
+</users>
